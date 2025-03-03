@@ -1,5 +1,9 @@
 # PDF Query & Summarization (RAG + NLP)
-
+<p align="left">
+<img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-MIT">
+ <img alt="Issues" src=https://img.shields.io/github/issues/romisadeh/tube-tracker>
+ <img alt="last commit" src=https://img.shields.io/github/last-commit/romisadeh/tube-tracker>
+</p>
 ## Overview
 This project enables users to upload a PDF file and ask questions about its content. The system uses **Retrieval-Augmented Generation (RAG)** and **Natural Language Processing (NLP)** techniques to extract relevant information, generate answers, and summarize the document. Additionally, it interacts with the **Gemini API** to enhance responses.
 
