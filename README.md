@@ -71,6 +71,3 @@ The three primary types of machine learning are:
 - Support multiple document formats.
 - Enhance query response with additional AI models.
 
-## License
-This project is licensed under the MIT License.
-
