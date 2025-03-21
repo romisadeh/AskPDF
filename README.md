@@ -1,8 +1,8 @@
 # PDF Query & Summarization (RAG + NLP)
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-MIT">
- <img alt="Issues" src=https://img.shields.io/github/issues/romisadeh/tube-tracker>
- <img alt="last commit" src=https://img.shields.io/github/last-commit/romisadeh/tube-tracker>
+ <img alt="Issues" src=https://img.shields.io/github/issues/romisadeh/AskPDF>
+ <img alt="last commit" src=https://img.shields.io/github/last-commit/romisadeh/AskPDF>
 </p>
 
 ## Overview
